@@ -1,5 +1,7 @@
 package ru.alishev.springcourse.models;
 
+
+
 import javax.persistence.*;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.Min;
